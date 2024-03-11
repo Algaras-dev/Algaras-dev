@@ -12,6 +12,7 @@
 
 - Python
 - CAD
+- Web development
 
 <!--- 
 ## 💞️ I’m looking to collaborate on
