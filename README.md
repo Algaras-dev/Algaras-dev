@@ -11,7 +11,6 @@
 ## 🌱 I’m currently learning
 
 - Python
-- CAD
 - Web development
 
 <!--- 
