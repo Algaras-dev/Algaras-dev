@@ -1,17 +1,17 @@
 
 # 👋 Hello, I’m @Algaras-dev
+
 ## 👀 I’m interested in
 
-- Software
-- Programming (Python)
-- AI
-- Computers
+- Software Development
+- Machine Learning
 - 3D printing
 
 ## 🌱 I’m currently learning
 
 - Python
-- Web development
+- C#
+- HTML, SCSS, JS
 
 <!--- 
 ## 💞️ I’m looking to collaborate on
