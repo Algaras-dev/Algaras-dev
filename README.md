@@ -5,13 +5,12 @@
 
 - Software Development
 - Machine Learning
-- 3D printing
+- CAD & 3D Printing
 
 ## 🌱 I’m currently learning
 
-- Python
-- C#
-- HTML, SCSS, JS
+- Webdev (HTML, SCSS, JS)
+- Colemak
 
 <!--- 
 ## 💞️ I’m looking to collaborate on
