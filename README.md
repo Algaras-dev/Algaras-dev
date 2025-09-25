@@ -9,8 +9,9 @@
 
 ## 🌱 I’m currently learning
 
-- Webdev (HTML, SCSS, JS)
-- Colemak
+- Python
+- Network
+- Colemak-DH
 
 <!--- 
 ## 💞️ I’m looking to collaborate on
