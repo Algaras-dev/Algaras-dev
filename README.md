@@ -4,7 +4,6 @@
 ## 👀 I’m interested in
 
 - Software Development
-- Machine Learning
 - CAD & 3D Printing
 - Video Games
 - Privacy
@@ -12,6 +11,7 @@
 ## 🌱 I’m currently learning
 
 - Python
+- Java
 - Colemak-DH
 
 <!--- 
