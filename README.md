@@ -4,9 +4,10 @@
 ## 👀 I’m interested in
 
 - Software Development
+- Privacy
+- Home Automation
 - CAD & 3D Printing
 - Video Games
-- Privacy
 
 ## 🌱 I’m currently learning
 
