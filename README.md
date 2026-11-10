@@ -7,13 +7,12 @@
 - Privacy
 - Home Automation
 - CAD & 3D Printing
-- Video Games
+- Gaming
 
 ## 🌱 I’m currently learning
 
-- Python
 - Java
-- Colemak-DH
+- Teamwork
 
 <!--- 
 ## 💞️ I’m looking to collaborate on
